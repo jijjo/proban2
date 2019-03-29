@@ -48,7 +48,8 @@ https://git-scm.com/docs/git-log
 p.	Checkout: Actualiza los archivos en el árbol de trabajo para que coincidan con la versión en el índice o el árbol especificado. Si no se proporcionan rutas, git checkout también actualizará HEAD para establecer la rama especificada como la rama actual.
 https://git-scm.com/docs/git-checkout
 
-q.	Rama:
+q.	Rama: Una rama Git es simplemente un apuntador móvil apuntando a una confirmación (que se hace despues de cambios al archivo). La rama por defecto de Git es la rama master.
+https://git-scm.com/book/es/v1/Ramificaciones-en-Git-%C2%BFQu%C3%A9-es-una-rama%3F
 r.	Etiqueta / Tag: Es un comando que permite marcar puntos específicos en la historia como importantes.
 https://git-scm.com/book/es/v1/Fundamentos-de-Git-Creando-etiquetas
 
